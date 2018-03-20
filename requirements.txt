@@ -1,0 +1,6 @@
+homeassistant
+home-assistant-frontend
+netdisco
+sqlalchemy
+warrant
+xmltodict
